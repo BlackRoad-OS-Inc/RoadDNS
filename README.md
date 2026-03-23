@@ -1,3 +1,11 @@
+# RoadDNS
+
+> RoadDNS — Sovereign authoritative DNS. BlackRoad fork of PowerDNS. 151 records on Lucidia + Gematria.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 PowerDNS is copyright © by PowerDNS.COM BV and lots of
 contributors, using the GNU GPLv2 license (see NOTICE for the
 exact license and exception used).
